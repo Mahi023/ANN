@@ -1,0 +1,4 @@
+tensorflow
+geesetools
+seaborn
+streamlit
